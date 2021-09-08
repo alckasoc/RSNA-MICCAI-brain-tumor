@@ -10,7 +10,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 ## File Placement
 
 | File                                   | Colab              | Kaggle             |
-| -------------------------------------- |:------------------:| ------------------:|
+| -------------------------------------- |:------------------:|:------------------:|
 | rsna-miccai-dcm-png-meta-dfs.ipynb     | :heavy_check_mark: | :heavy_check_mark: |
 | RSNA-MICCAI_baseline.ipynb             | :heavy_check_mark:	| :x:                |
 
