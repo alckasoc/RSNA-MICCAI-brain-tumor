@@ -4,18 +4,26 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 
 ## Table of Contents:
 - [File Placement](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/README.md#file-placement)
-- [Dataset](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/README.md#dataset)
+- [Datasets](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/README.md#datasets)
 
 
 ## File Placement
 
-| File                                   | Colab              | Kaggle             |
-| -------------------------------------- |:------------------:|:------------------:|
-| rsna-miccai-dcm-png-meta-dfs.ipynb     | :heavy_check_mark: | :heavy_check_mark: |
-| RSNA-MICCAI_baseline.ipynb             | :heavy_check_mark:	| :x:                |
-| make_kfold.ipynb                       | :heavy_check_mark:	| :x:                |
+| File                                   | Colab              | Kaggle             | Google Drive       | Local              | GitHub             |
+| -------------------------------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:| 
+| rsna-miccai-dcm-png-meta-dfs.ipynb     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| RSNA-MICCAI_baseline.ipynb             | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :x:                | :x:                |
+| make_kfold.ipynb                       | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :x:                | :x:                |
 
-## Dataset
+| Dataset                                | Kaggle             | Google Drive       | Local              | GitHub             |
+| -------------------------------------- |:------------------:|:------------------:|:------------------:|:------------------:| 
+| Competition Dataset                    | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| Train/Test Meta DataFrames             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| RSNA MICCAI PNG                        | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
+
+
+## Datasets
 
 - [Competition Dataset](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data).
-- [Meta DFs](https://www.kaggle.com/vincenttu/rsnamiccaibraintumor-meta-datasets) created [here](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
+- [Train/Test Meta DataFrames](https://www.kaggle.com/vincenttu/rsnamiccaibraintumor-meta-datasets) created [here](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
+- [RSNA MICCAI PNG](https://www.kaggle.com/jonathanbesomi/rsna-miccai-png).
