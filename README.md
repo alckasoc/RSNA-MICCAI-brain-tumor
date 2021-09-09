@@ -20,10 +20,14 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | Competition Dataset                    | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | Train/Test Meta DataFrames             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | RSNA-MICCAI-PNG                        | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
+| train_kfold                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## Datasets
 
++ Note some of these datasets may be private.
+
 - [Competition Dataset](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data).
-- [Train/Test Meta DataFrames](https://www.kaggle.com/vincenttu/rsnamiccaibraintumor-meta-datasets) created [here](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
+- [Train/Test Meta DataFrames](https://www.kaggle.com/vincenttu/rsnamiccaibraintumor-meta-datasets) created from [rsna-miccai-dcm-png-meta-dfs.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
 - [RSNA MICCAI PNG](https://www.kaggle.com/jonathanbesomi/rsna-miccai-png).
+- [train_kfold](https://www.kaggle.com/vincenttu/rsnamiccaibraintumor-train-kfold) created from [make_train_kfold.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/make_train_kfold.ipynb).
