@@ -16,12 +16,12 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | RSNA-MICCAI_baseline.ipynb             | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | baseline_submission.ipynb              | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |
 | RSNA-MICCAI-efnb0-3d_512.ipynb         | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :x:                | :x:                |
-| RSNA-MICCAI-make_png_modified.ipynb    | :x:	              | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| RSNA-MICCAI-make_png_modified.ipynb    | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 
 
 | Dataset                                | Kaggle             | Google Drive       | Local              | GitHub             |
 | -------------------------------------- |:------------------:|:------------------:|:------------------:|:------------------:| 
-| Competition Dataset                    | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| Competition Dataset                    | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 | Train/Test Meta DataFrames             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | RSNA-MICCAI-PNG                        | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 | train_kfold                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
