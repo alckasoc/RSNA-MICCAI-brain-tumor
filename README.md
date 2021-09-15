@@ -18,6 +18,8 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | RSNA-MICCAI-efnb0-3d_512.ipynb         | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :x:                | :x:                | Colab        |
 | RSNA-MICCAI-make_png_modified.ipynb    | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Local/Gcloud |
 | RSNA-MICCAI-move_data_GCS.ipynb        | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
+| make_plane_modality_kfold.ipynb        | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab       |
+
 
 + Note: Converting all images was too time consuming and I opted to not do it.
 
@@ -32,6 +34,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | rsnamiccaibraintumorapikey             | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 | rsna_miccai_pngs                       | -                  | -                  | -                  | -                  |
 | detailed_train_meta                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                |
+| plane_modality_kfold                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## Datasets
@@ -46,4 +49,4 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 - [images_meta_df](https://www.kaggle.com/vincenttu/images-meta-df) was created from running just the first half of [rsna-miccai-dcm-png-meta-dfs.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
 - rsnamiccaibraintumorapikey was how I accessed my GCS. 
 - [detailed_train_meta](https://www.kaggle.com/vincenttu/detailed-train-meta) was created from exporting the train_meta_df from [here](https://www.kaggle.com/smoschou55/advanced-eda-brain-tumor-data).
-
+- [plane_modality_kfold](https://www.kaggle.com/vincenttu/plane-modality-kfold) created from [make_plane_modality_kfold.ipynb]().
