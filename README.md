@@ -49,4 +49,4 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 - [images_meta_df](https://www.kaggle.com/vincenttu/images-meta-df) was created from running just the first half of [rsna-miccai-dcm-png-meta-dfs.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
 - rsnamiccaibraintumorapikey was how I accessed my GCS. 
 - [detailed_train_meta](https://www.kaggle.com/vincenttu/detailed-train-meta) was created from exporting the train_meta_df from [here](https://www.kaggle.com/smoschou55/advanced-eda-brain-tumor-data).
-- [plane_modality_kfold](https://www.kaggle.com/vincenttu/plane-modality-kfold) created from [make_plane_modality_kfold.ipynb]().
+- [plane_modality_kfold](https://www.kaggle.com/vincenttu/plane-modality-kfold) created from [make_plane_modality_kfold.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/make_plane_modality_kfold.ipynb).
