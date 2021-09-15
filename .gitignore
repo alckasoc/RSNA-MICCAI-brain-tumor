@@ -2,5 +2,6 @@
 /input/rsna-miccai-png.zip
 /input/rsna-miccai-brain-tumor-radiogenomic-classification/
 /input/zips/
+/input/detailed_train_meta.csv
 /src/preprocessing/.ipynb_checkpoints/
 /src/preprocessing/rsna-miccai-brain-tumor-97ba2bbb40fa.json
