@@ -31,6 +31,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | images_meta_df                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |
 | rsnamiccaibraintumorapikey             | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 | rsna_miccai_pngs                       | -                  | -                  | -                  | -                  |
+| detailed_train_meta                    | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## Datasets
@@ -44,4 +45,5 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 - [baseline_models](https://www.kaggle.com/vincenttu/baseline-models) created from [RSNA_MICCAI_baseline.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/RSNA-MICCAI_baseline/RSNA_MICCAI_baseline.ipynb).
 - [images_meta_df](https://www.kaggle.com/vincenttu/images-meta-df) was created from running just the first half of [rsna-miccai-dcm-png-meta-dfs.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-dcm-png-meta-dfs.ipynb).
 - rsnamiccaibraintumorapikey was how I accessed my GCS. 
+- [detailed_train_meta](https://www.kaggle.com/vincenttu/detailed-train-meta) was created from exporting the train_meta_df from [here](https://www.kaggle.com/smoschou55/advanced-eda-brain-tumor-data).
 
