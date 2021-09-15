@@ -31,7 +31,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | images_meta_df                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |
 | rsnamiccaibraintumorapikey             | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 | rsna_miccai_pngs                       | -                  | -                  | -                  | -                  |
-| detailed_train_meta                    | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |
+| detailed_train_meta                    | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
 
 
 ## Datasets
