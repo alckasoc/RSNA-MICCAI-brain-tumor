@@ -9,16 +9,16 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 
 ## File Placement
 
-| File                                   | Colab              | Kaggle             | Google Drive       | Local              | GitHub             | Executed In  |
-| -------------------------------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------:|         
-| rsna-miccai-dcm-png-meta-dfs.ipynb     | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
-| make_train_kfold.ipynb                 | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
-| RSNA-MICCAI_baseline.ipynb             | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        | 
-| baseline_submission.ipynb              | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
-| RSNA-MICCAI-efnb0-3d_512.ipynb         | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :x:                | :x:                | Colab        |
-| RSNA-MICCAI-make_png_modified.ipynb    | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Local/Gcloud |
-| RSNA-MICCAI-move_data_GCS.ipynb        | :x:	              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
-| make_plane_modality_kfold.ipynb        | :heavy_check_mark:	| :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab       |
+| File                                    | Colab              | Kaggle             | Google Drive       | Local              | GitHub             | Executed In  |
+| --------------------------------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------:|         
+| rsna-miccai-dcm-png-meta-dfs.ipynb      | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
+| make_train_kfold.ipynb                  | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
+| RSNA-MICCAI_baseline.ipynb              | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        | 
+| baseline_submission.ipynb               | :x:	               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
+| RSNA-MICCAI-efnb0-3d_512_archived.ipynb | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
+| RSNA-MICCAI-make_png_modified.ipynb     | :x:	               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Local/Gcloud |
+| RSNA-MICCAI-move_data_GCS.ipynb         | :x:	               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
+| make_plane_modality_kfold.ipynb         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
 
 
 + Note: Converting all images was too time consuming and I opted to not do it.
