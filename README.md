@@ -36,7 +36,6 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | rsna_miccai_pngs                       | -                  | -                  | -                  | -                  |
 | detailed_train_meta                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                |
 | plane_modality_kfold                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| rsna_miccai_pngs                       | -                  | -                  | -                  | -                  |
 | RSNA Processed Voxels 64x256x256 CLAHE | :heavy_check_mark: | :x:                | :x:                | :x:                |
 
 
