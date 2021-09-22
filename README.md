@@ -20,6 +20,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | RSNA-MICCAI-move_data_GCS.ipynb         | :x:	               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Kaggle       |
 | make_plane_modality_kfold.ipynb         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
 | RSNA-MICCAI_efnb0_3d_256.ipynb          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Colab        |
+| rsna-miccai-convert-task-1-to-npy.ipynb | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | Local        |
 
 
 + Note: Converting all images was too time consuming and I opted to not do it.
@@ -37,6 +38,7 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 | detailed_train_meta                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                |
 | plane_modality_kfold                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | RSNA Processed Voxels 64x256x256 CLAHE | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| task_1_data                            | :x:                | :x:                | :heavy_check_mark: | :x:                |
 
 
 ## Datasets
@@ -53,3 +55,4 @@ Repo for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Competition on 
 - [detailed_train_meta](https://www.kaggle.com/vincenttu/detailed-train-meta) was created from exporting the train_meta_df from [here](https://www.kaggle.com/smoschou55/advanced-eda-brain-tumor-data).
 - [plane_modality_kfold](https://www.kaggle.com/vincenttu/plane-modality-kfold) created from [make_plane_modality_kfold.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/make_plane_modality_kfold.ipynb).
 - [RSNA Processed Voxels 64x256x256 CLAHE](https://www.kaggle.com/sreevishnudamodaran/rsna-processed-voxels-64x256x256-clahe).
+- task_1_data was generated from [rsna-miccai-convert-task-1-to-npy.ipynb](https://github.com/alckasoc/RSNA-MICCAI-brain-tumor/blob/main/src/preprocessing/rsna-miccai-convert-task-1-to-npy.ipynb).
