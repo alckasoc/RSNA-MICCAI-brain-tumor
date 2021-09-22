@@ -4,5 +4,6 @@
 /input/zips/
 /input/rsna-miccai-png
 /input/detailed_train_meta.csv
+/input/task_1_data
 /src/preprocessing/.ipynb_checkpoints/
 /src/preprocessing/rsna-miccai-brain-tumor-97ba2bbb40fa.json
